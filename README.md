@@ -1,10 +1,7 @@
 # Illegal Mine Detection in Indonesia Using Detectron2
 ## 📑 Project Overview
 
-This project focuses on detecting illegal mines in Indonesia through object detection and instance segmentation techniques. Using Mask R-CNN from the Detectron2 library, the model is trained to identify and classify images into two classes: Illegal and Legal. The system aims to automate the detection of mining activities to aid environmental protection efforts and improve monitoring processes.
-
-
-Sure! Below is a template for your **README.md** file for the illegal mine detection project. Feel free to customize it based on any additional details specific to your project. 
+This project focuses on detecting illegal mines in Indonesia through object detection and instance segmentation techniques. Using Mask R-CNN from the Detectron2 library, the model is trained to identify and classify images into two classes: Illegal and Legal.
 
 ---
 
